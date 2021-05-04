@@ -15,3 +15,29 @@ a {
     color: aquamarine;
     font-size: 16px;
 }
+
+img {
+    margin: auto;
+}
+
+#icon {
+    padding-top: 20px;
+}
+
+h2 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    font-size: 21px;
+}
+
+.footer {
+  text-align: right;
+  color: gray;  
+}
